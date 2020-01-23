@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.checkout {
+    font-size: 36px;
+}
+
+.subtitle {
+    font-size: 14px;
+}
+.center img {
+    height: 70px;
+} 
+
+.card-img {
+    width: 70px;
+    height: 70px;
+}
+.card-input {
+    height: 30px;
+    max-width: 30px;
+}
+
+h3 {
+    text-transform: uppercase;
+}
+
+.shipping {
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+.edit-link {
+    position: absolute;
+    font-size: 10px;
+    top: calc(50% - 14px);
+    left: 100px;
+}
